@@ -1,0 +1,19 @@
+Compute type,Instance,worker instance type,worker count,DBU/hour,Rate/hour,onDemandLinuxHr
+SQL Pro Compute,2X-Small,i3.2xlarge,1,4,2.2,0.624
+SQL Pro Compute,X-Small,i3.2xlarge,2,6,3.3,0.624
+SQL Pro Compute,Small,i3.4xlarge,4,12,6.6,1.248
+SQL Pro Compute,Medium,i3.8xlarge,8,24,13.2,2.496
+SQL Pro Compute,Large,i3.8xlarge,16,40,22,2.496
+SQL Pro Compute,X-Large,i3.16xlarge,32,80,44,4.992
+SQL Pro Compute,2X-Large,i3.16xlarge,64,144,79.2,4.992
+SQL Pro Compute,3X-Large,i3.16xlarge,128,272,149.6,4.992
+SQL Pro Compute,4X-Large,i3.16xlarge,256,528,290.4,4.992
+SQL Compute,2X-Small,i3.2xlarge,1,4,0.88,0.624
+SQL Compute,X-Small,i3.2xlarge,2,6,1.32,0.624
+SQL Compute,Small,i3.4xlarge,4,12,2.64,1.248
+SQL Compute,Medium,i3.8xlarge,8,24,5.28,2.496
+SQL Compute,Large,i3.8xlarge,16,40,8.8,2.496
+SQL Compute,X-Large,i3.16xlarge,32,80,17.6,4.992
+SQL Compute,2X-Large,i3.16xlarge,64,144,31.68,4.992
+SQL Compute,3X-Large,i3.16xlarge,128,272,59.84,4.992
+SQL Compute,4X-Large,i3.16xlarge,256,528,116.16,4.992
